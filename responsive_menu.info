@@ -1,0 +1,8 @@
+name = Responsive Menu
+description = Custom Responsive Menu
+package = Other
+core = 7.x
+
+dependencies[] = menu_block
+stylesheets[all][] = css/responsive_menu.css
+scripts[] = js/responsive_menu.js
